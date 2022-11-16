@@ -2,7 +2,7 @@
 
  [Link to the course](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/)
 
-At the end of the course, these are my 🔑 **learnings:
+At the end of the course, these are my 🔑 **learnings**:
   - Gained practical, hands on experience on learning business intelligence with Power Bi Dekstop.
   - Learn how to connect to data sources, shape and transform tables, merge and append queries.
   - Learn how to create a data model,building relational tables and creating table relationships.
