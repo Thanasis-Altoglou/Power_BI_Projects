@@ -22,3 +22,9 @@ Your client needs a way to track KPIs (sales, revenue, profit, returns), compare
 performance, analyze product-level trends and forecasts, and identify high-value customers
 All you’ve been given is a folder of raw csv files, containing information about transactions,
 returns, products, customers and territories.
+
+![Screenshot (204)](https://user-images.githubusercontent.com/102918064/202384234-a9e07de4-7a9c-4e3c-be90-7f589767ac19.png)
+
+
+## Project 2:
+This time you will be working with Maven Market, a multi-national grocery chain with locations in Canada, Mexico and the United States. Just like the previousn project, we are going to work through the entire business intelligence workflow: 1) connecting and shaping the source data, 2) building a relational model, 3) adding calculated columns and measures and 4) designing an interactive report.
