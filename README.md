@@ -23,6 +23,7 @@ performance, analyze product-level trends and forecasts, and identify high-value
 All you’ve been given is a folder of raw csv files, containing information about transactions,
 returns, products, customers and territories.
 
+### **First Page of the Report**
 ![Screenshot (204)](https://user-images.githubusercontent.com/102918064/202384234-a9e07de4-7a9c-4e3c-be90-7f589767ac19.png)
 
 
