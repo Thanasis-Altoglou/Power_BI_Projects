@@ -32,4 +32,4 @@ This time we will be working with Maven Market, a multi-national grocery chain w
 
 ## First Page of the Report. (More data analysis to come)
 
-![Screenshot (208)](https://user-images.githubusercontent.com/102918064/202797731-18631bff-089f-441e-bf6f-08def1ee5160.png)
+![Screenshot (209)](https://user-images.githubusercontent.com/102918064/202797969-ff8d7302-ca80-41ce-9923-8b688e186805.png)
