@@ -29,3 +29,7 @@ returns, products, customers and territories.
 
 ## Project 2:
 This time we will be working with Maven Market, a multi-national grocery chain with locations in Canada, Mexico and the United States. Just like the previousn project, we are going to work through the entire business intelligence workflow: 1) connecting and shaping the source data, 2) building a relational model, 3) adding calculated columns and measures and 4) designing an interactive report.
+
+## First Page of the Report. (More data analysis to come)
+
+![Screenshot (208)](https://user-images.githubusercontent.com/102918064/202797731-18631bff-089f-441e-bf6f-08def1ee5160.png)
